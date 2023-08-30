@@ -1,3 +1,3 @@
 # qay
-only testing
-with visual studio
+only testing github
+with visual studio code
